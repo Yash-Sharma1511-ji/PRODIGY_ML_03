@@ -97,5 +97,5 @@ This project is for educational purposes only. Dataset belongs to Kaggle and is 
 
 ## 👨‍💻 Author
 
-**Your Name**  
+Yash Sharma
 GitHub: [@Yash-Sharma1511-ji]([https://github.com/your-username])
